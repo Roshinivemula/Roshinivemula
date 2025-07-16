@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roshini Vemula</h1>
 <h3 align="center">A passionate Data Enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://roshvemula.wixsite.com/my-site](https://roshvemula.wixsite.com/my-site)
 
