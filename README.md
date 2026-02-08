@@ -14,7 +14,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-UK6wOZbJAO5wiLraVOqcFcxk-aIo3RY/view?usp=drive_link](https://drive.google.com/file/d/1-UK6wOZbJAO5wiLraVOqcFcxk-aIo3RY/view?usp=drive_link)
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/roshinivemula) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@roshvemula) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roshinivemula59@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/roshinivemula) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@roshinivemula59_67419) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roshinivemula59@gmail.com) 
 
 
 # 💻 Tech Stack:
